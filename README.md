@@ -2,6 +2,7 @@
 
 - 🔭 Procurando emprego...
 - 🌱 Estudando Análise e Desenvolvimento de Sistemas
+- 
  <div>
   <a href="https://github.com/gui-meireles">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=gui-meireles&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
