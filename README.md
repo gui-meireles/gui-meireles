@@ -1,6 +1,6 @@
 ### Olá!! Eu sou o Guilherme Meireles
 
-- 🔭 Procurando emprego..
+- 🔭 Empregado na V2Saude..
 - 🌱 Estudando Análise e Desenvolvimento de Sistemas
  <div>
   <a href="https://github.com/gui-meireles">
