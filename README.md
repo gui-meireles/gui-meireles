@@ -1,6 +1,5 @@
 ### Olá!! Eu sou o Guilherme Meireles
 
-- 🔭 Empregado na V2Saude..
 - 🌱 Estudando Análise e Desenvolvimento de Sistemas
 - 🐾 Certificados e conclusões de cursos no meu LinkedIn
  <div>
