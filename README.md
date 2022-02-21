@@ -2,6 +2,7 @@
 
 - 🌱 Estudando Análise e Desenvolvimento de Sistemas
 - 🐾 Certificados e conclusões de cursos no meu LinkedIn
+- 📫 E-mail: guilhermemeirelesnascimento@gmail.com
  <div>
   <a href="https://github.com/gui-meireles">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=gui-meireles&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
