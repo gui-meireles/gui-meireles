@@ -1,7 +1,7 @@
-### Olá!! Eu sou o Guilherme Meireles
+### Hi!! I'm Guilherme Meireles
 
-- 🌱 Estudando Análise e Desenvolvimento de Sistemas
-- 🐾 Certificados e conclusões de cursos no meu LinkedIn
+- 🌱 Studying Systems Analysis and Development at FIAP
+- 🐾 Certificates and course completions on my LinkedIn
 - 📫 E-mail: guilhermemeirelesnascimento@gmail.com
  <div>
   <a href="https://github.com/gui-meireles">
