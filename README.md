@@ -2,7 +2,7 @@
 
 - 👨‍🎓 Studying Systems Analysis and Development at FIAP
 - 🐾 Certificates and course completions on my LinkedIn
-- 🧑‍💻 Java Developer at Nava
+- 🧑‍💻 Intern Java Developer at Nava
 - 📫 E-mail: guilhermemeirelesnascimento@gmail.com
  <div>
   <a href="https://github.com/gui-meireles">
