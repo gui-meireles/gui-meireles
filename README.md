@@ -1,6 +1,6 @@
 ### Hi!! I'm Guilherme Meireles
 
-- 👨‍🎓 Studying Systems Analysis and Development at FIAP
+- 👨‍🎓 Graduated Systems Analysis and Development at FIAP
 - 🐾 Certificates and course completions on my LinkedIn
 - 🧑‍💻 Java Developer at Nava
 - 📫 E-mail: guilhermemeirelesnascimento@gmail.com
