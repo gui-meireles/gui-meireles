@@ -23,7 +23,8 @@
 - KEYCLOAK | TERRAFORM | GRAFANA <br />
 
 ### Courses:
-- Analysis and systems development - FIAP;
+- Software Architecture - FIAP
+- Analysis and systems development - FIAP
 - Complete Java Object-Oriented Programming (Udemy and Alura)
 - MySQL (Alura)
 - FullCycle
